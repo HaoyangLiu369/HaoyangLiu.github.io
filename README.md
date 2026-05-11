@@ -1,14 +1,27 @@
-# Data Scientist
+# Haoyang Liu | Data Science Portfolio
 
-### Education
-statistics/data science
-University of arizona
+This repository contains the static GitHub Pages portfolio for Haoyang Liu, a
+Statistics and Data Science student at the University of Arizona.
 
-### Work Experience
-Assistant Research Algorithm Engineer @ iFLYTEK
-- Crawling the Traditional Chinese Medicine Q&A Dataset
-- Create an application that uses a large model to generate a PowerPoint presentation
+The site highlights:
 
-### Projects
-**Climate Prediction via Sparse Group Lasso**
-Applied the Sparse Group Lasso algorithm to perform variable selection on ultra-high dimensional climate datasets. The model effectively identified key meteorological factors and improved temperature prediction accuracy for the Shanghai region.
+- Machine learning, statistical learning, and time series interests
+- Coursework in machine learning, time series, Bayesian statistics, and nonparametric statistics
+- Financial news sentiment modeling for S&P 500 movement prediction
+- Bank marketing term deposit prediction with leakage-aware classification
+- Climate prediction via Sparse Group Lasso
+
+## Files
+
+- `index.html` - Main portfolio page
+- `styles.css` - Responsive visual design
+- `script.js` - Header and scroll interactions
+- `assets/hero-data-lab.png` - Portfolio hero image
+
+## Deployment
+
+This is a plain static site. GitHub Pages can serve it directly from the root of
+the repository. For the current project repository, the deployed URL is expected
+to be:
+
+https://haoyangliu369.github.io/HaoyangLiu.github.io/
