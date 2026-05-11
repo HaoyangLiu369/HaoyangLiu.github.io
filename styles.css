@@ -135,7 +135,7 @@ li + li {
   background:
     linear-gradient(90deg, rgba(6, 24, 36, 0.98) 0%, rgba(6, 24, 36, 0.88) 30%, rgba(6, 24, 36, 0.3) 62%, rgba(6, 24, 36, 0.1) 100%),
     linear-gradient(0deg, rgba(6, 24, 36, 0.65), rgba(6, 24, 36, 0.02)),
-    url("assets/hero-data-lab.png") center / cover no-repeat;
+    url("hero-data-lab.png") center / cover no-repeat;
   inset: 0;
   position: absolute;
 }
@@ -538,7 +538,7 @@ h1 {
     background:
       linear-gradient(90deg, rgba(6, 24, 36, 0.98) 0%, rgba(6, 24, 36, 0.84) 55%, rgba(6, 24, 36, 0.34) 100%),
       linear-gradient(0deg, rgba(6, 24, 36, 0.72), rgba(6, 24, 36, 0.08)),
-      url("assets/hero-data-lab.png") center / cover no-repeat;
+      url("hero-data-lab.png") center / cover no-repeat;
   }
 
   .metrics-grid,
